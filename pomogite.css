@@ -1,0 +1,62 @@
+body {
+		background-color: rgb(249,98,167,0.5) ;
+}
+
+#buton img{
+	border:solid 0px;
+	border-radius:1000px;
+	margin:;
+}
+#change img {
+	border:solid 0px;
+	border-radius:1000px;
+	margin:5px;
+}
+#tuble{
+	
+	width:50%;
+	height:50%;
+	background-size:100% 100%;
+
+}
+
+.tuan1{
+	background-image: url(prill1.jpg);
+}
+
+.tuan2{
+	background-image: url(prill2.jpg);
+}
+
+.tuan3	{
+	background-image: url(prill3.jpg);
+}
+
+#tuble td{
+	background-color: rgba(253,131,108,1);
+	transition: 15s;
+}
+
+#tuble td:hover{
+	background-color: rgba(253,131,108,0);
+	transition: 0s;
+	
+}
+
+
+#ssilka div{
+	padding:4px;
+	background-color:rgb(254,186,105);
+	text-align:center;
+	margin:6px;
+	width:80%;
+	border:0px solid yellow;
+	border-radius:20px;
+	color:rgb(200,72,185);
+	margin-left:10%;
+	margin-right:10%;
+}
+
+a {
+	text-decoration:none;
+}
